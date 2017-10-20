@@ -9,3 +9,7 @@
 .navbar-default .navbar-nav > li > a {
         color: white;
 }
+
+.center_wrapper {
+    text-align: center;
+}
